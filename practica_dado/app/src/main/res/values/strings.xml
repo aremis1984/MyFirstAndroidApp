@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="jugador_uno">Jugador 1</string>
+    <string name="jugador_dos">Jugador 2</string>
+    <string name="lanzar">Lanzar dado</string>
+    <string name="comenzar">Comenzar turno</string>
+    <string name="acumulado">Acumulado en el turno: </string>
+    <string name="dado">dado</string>
+    <string name="dado1">dado1</string>
+    <string name="dado2">dado2</string>
+    <string name="dado3">dado3</string>
+    <string name="dado4">dado4</string>
+    <string name="dado5">dado5</string>
+    <string name="dado6">dado6</string>
+    <string name="recoger">Recoger</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="cero">0</string>
+    <string name="salir">Salir</string>
+    <string name="volver">Volver a jugar</string>
+    <string name="gana_uno">Gana el jugador uno</string>
+    <string name="gana_dos">Gana el jugador dos</string>
+    <string name="fin">Partida finalizada</string>
+</resources>
